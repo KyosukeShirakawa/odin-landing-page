@@ -77,5 +77,44 @@ a {
 
 }
 
+/* main section Two */
+
+.section-two {
+  padding: 32px 150px;
+}
+
+.section-two-title {
+  font-size: 22px;
+  font-weight: extra-bold;
+}
+
+.section-two-title,
+.card-container {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  margin: 0;
+  margin-bottom: 32px;
+
+}
+
+.card {
+  text-align: center;
+}
+
+.card img{
+  height: 100px;
+  width: 100px;
+  border-radius: 10px;
+  border: solid 2px #3882F6; 
+}
+.card p {
+  font-size: 12px;
+}
+
+/* section Three */
+
+
+
 
 
